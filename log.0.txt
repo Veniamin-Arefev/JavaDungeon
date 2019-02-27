@@ -1,0 +1,10 @@
+мар. 28, 2018 10:57:54 ДП MainClassOfThisGame main
+INFO: Hello world
+мар. 28, 2018 10:57:58 ДП Map generateMap
+INFO: Generating map...
+мар. 28, 2018 10:57:58 ДП Map generateMap
+INFO: Map generated in 0.762 seconds
+мар. 28, 2018 10:57:59 ДП Game <init>
+INFO: Game started
+мар. 28, 2018 10:58:09 ДП MainClassOfThisGame$1 windowClosing
+INFO: System Exit
